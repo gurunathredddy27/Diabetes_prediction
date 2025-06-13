@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction Web App
+# 🩺 Diabetes Prediction (Flask web App)    
 
 This repository contains a **Flask web application** that predicts whether a person is likely to have diabetes based on health parameters. It uses a **pre-trained Logistic Regression model**, a styled HTML form, and displays predictions dynamically.
 
@@ -47,7 +47,4 @@ This project integrates:
 
 ---
 
-## 💡 How to Run the App
-
-### ▶️ Step 1: Install Requirements
 
